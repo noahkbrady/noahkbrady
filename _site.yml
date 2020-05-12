@@ -1,0 +1,10 @@
+name: "Noah Brady"
+output_dir: "."
+navbar:
+  title: "Noah Brady"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    
